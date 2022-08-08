@@ -1,0 +1,222 @@
+body {
+    margin: 0;
+}
+.up {
+    height: 120px;
+    background-color: rgb(141, 14, 14);    
+}
+.up .IMG_roshen{
+    height: 150px;
+    position: absolute;
+    top: -23px;
+}
+.up .o_roshen {
+    color: rgba(204, 195, 17, 0.889);
+    font-size: 20px;  
+    position: absolute;
+    left: 400px;
+    top: 40px; 
+}
+.up .novosti {
+    color: rgba(204, 195, 17, 0.889);
+    font-size: 20px;
+    position: absolute;
+    left: 530px;
+    top: 40px; 
+}
+.up .magazini {
+    color: rgba(204, 195, 17, 0.889);
+    font-size: 20px;
+    position: absolute;
+    left: 660px;
+    top: 40px; 
+}
+.up .soz_pr {
+    color: rgba(204, 195, 17, 0.889);
+    font-size: 20px;
+    position: absolute;
+    left: 800px;
+    top: 40px; 
+}
+.up .karera{
+    color: rgba(204, 195, 17, 0.889);
+    font-size: 20px;
+    position: absolute;
+    left: 1070px;
+    top: 40px; 
+}
+.up .kontakti {
+    color: rgba(204, 195, 17, 0.889);
+    font-size: 20px;
+    position: absolute;
+    left: 1190px;
+    top: 40px; 
+}
+.up .flag{
+    height: 25px;
+    position: absolute;
+    left: 1400px;
+    top: 40px;
+    border-radius: 50%;
+}
+.up .eng{
+    color: rgba(204, 195, 17, 0.889);
+    font-size: 20px;
+    position: absolute;
+    left: 1450px;
+    top: 40px;
+}
+.middle {
+    height: 800px;
+    background-color: rgb(254, 194, 130);
+    margin-top: -20px;   
+}
+.middle .img {
+    height: 400px;
+    width: 1000px;
+    position: absolute;
+    top: 143px;
+    left: 263px; 
+    border: 5px solid black;  
+}
+.middle .roshen_world {
+    font-size: 40px;
+    position: absolute;
+    top: 170px;
+    left: 540px;
+}
+.middle .button {
+    height: 40px;
+    width: 200px;
+    background-color: orange;
+    position: absolute;
+    top: 270px;
+    left: 660px;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+}
+.middle .button:hover{
+    background-color: gray;
+    font-size: 25px;
+}
+.middle .arrow1 {
+    height: 50px;
+    position: absolute;
+    left: 1180px;
+    top: 330px;
+    border-radius: 50%;
+}
+.middle .arrow1:hover{
+    background-color: white;
+}
+.middle .arrow2 {
+    height: 50px;
+    position: absolute;
+    left: 300px;
+    top: 330px;
+    transform: rotate(180deg);
+    border-radius: 50%;
+}
+.middle .arrow2:hover {
+    background-color: white;
+}
+.middle .boll_1 {
+    background-color: white;
+    border-radius: 50%;
+    height: 15px;
+    width: 15px;
+    position: absolute;
+    top: 500px;
+    left:725px;
+}
+.middle .boll_2 {
+    background-color: orange;
+    border-radius: 50%;
+    height: 15px;
+    width: 15px;
+    position: absolute;
+    top: 500px;
+    left:755px;
+}
+.middle .boll_3 {
+    background-color: white;
+    border-radius: 50%;
+    height: 15px;
+    width: 15px;
+    position: absolute;
+    top: 500px;
+    left:785px;
+}
+.middle .not_pit {
+    height: 30px;
+    width: 40px;
+    background-color: rgb(254, 194, 130);;
+    position: absolute;
+    top: 100px;
+}
+.middle .text1 {
+    font-size: 17px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 600px;
+    left: -200px;
+}
+.middle .text2 {
+    font-size: 17px;
+    position: absolute;
+    top: 600px;
+    left: 300px;
+}
+.middle .text3 {
+    font-size: 17px;
+    position: absolute;
+    top: 600px;
+    left: 850px;
+}
+.down {
+    height: 100px;
+    background-color: rgb(141, 14, 14);
+}
+.down .link {
+    color: rgba(204, 195, 17, 0.889);
+    font-size: 15px;
+    position: absolute;
+    top: 950px;
+    left: 50px;
+}
+.down .street {
+    color: rgba(204, 195, 17, 0.889);
+    font-size: 15px;
+    position: absolute;
+    top: 900px;
+    left: 230px;
+}
+.down .phone {
+    color: rgba(204, 195, 17, 0.889);
+    font-size: 15px;
+    position: absolute;
+    top: 900px;
+    left: 560px;
+}
+.down .email {
+    color: rgba(204, 195, 17, 0.889);
+    font-size: 15px;
+    position: absolute;
+    top: 900px;
+    left: 890px;
+}
+.down .fb {
+    height: 40px;
+    position: absolute;
+    top: 940px;
+    left: 1300px;
+}
+.down .insta {
+    height: 40px;
+    position: absolute;
+    top: 940px;
+    left: 1370px;
+    border-radius: 50%;
+}
